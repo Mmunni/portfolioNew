@@ -1,6 +1,6 @@
 *{
-    padding: 0;
-    margin: 0;
+    padding: 0px;
+    margin: 0px;
 }
 body{
     font-family: "Open Sans", sans-serif;
@@ -163,3 +163,47 @@ main{
   .education-section {
     margin-right: 30px;
   }
+  .download-btn{
+    text-align: center;
+    margin-top: 25px;
+  }
+
+  /* footer area style */
+
+#footer {
+  margin-top: 100px;
+}
+.footer-container {
+  background-color: #FFF8F3;
+  display: flex;
+  padding: 50px;
+}
+.footer-left {
+  margin-right: 30px;
+}
+.contact-details {
+  text-align: justify;
+  padding: 20px 0;
+}
+.social-link {
+  margin-right: 10px;
+}
+.form-title {
+  margin-bottom: 15px;
+}
+form {
+  display: block;
+}
+label {
+  display: block;
+  margin-bottom: 10px;
+  border: none;
+}
+input {
+  padding: 8px;
+  border: none;
+}
+textarea {
+  border: none;
+  margin-bottom: 10px;
+}
